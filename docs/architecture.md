@@ -2,7 +2,7 @@
 
 **Mata Kuliah:** Analisis Big Data
 **Target Check-in:** Pertemuan 10 (Diumumkan Pertemuan 8, repositori dibagikan Pertemuan 9)
-**Nama Tim:** Mukhamad Sofyan & Mohammad Ravlindo Saputra
+**Nama Tim:** Karhutla_115-135
 **Topik / Judul Produk Data:** **Pavana Dashboard — Pemantauan Titik Panas dan Kualitas Udara (PM2.5) Kalimantan 2024–2026**
 
 ---
